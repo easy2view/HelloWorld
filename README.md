@@ -2,7 +2,7 @@
 
 ---
 
-#### 安桌手机免翻墙浏览墙外禁闻、观看YouTube热门视频及电视直播，[点击下载安装](https://cdn.jsdelivr.net/gh/gfw-breaker/HelloWorld/assets/HelloWorld.apk)
+#### 安桌手机免翻墙浏览墙外禁闻、观看YouTube热门视频及电视直播，[点击下载安装](https://cdn.jsdelivr.net/gh/gfw-breaker/HelloWorld/assets/app-release.apk)
 
 ---
 
