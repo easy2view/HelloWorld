@@ -6,6 +6,6 @@
 
 ---
 
-<img src="./assets/1.png" width="240px"> &nbsp; <img src="./assets/2.png" width="240px"> &nbsp; <img src="./assets/3.png" width="240px">
+<img src="http://gfw-breaker.win/videos/helloworld/1.png" width="240px"> &nbsp; <img src="http://gfw-breaker.win/videos/helloworld/2.png" width="240px"> &nbsp; <img src="http://gfw-breaker.win/videos/helloworld/3.png" width="240px">
 
 <img src='http://gfw-breaker.win/HelloWorld.md' width='0px' height='0px'/>
